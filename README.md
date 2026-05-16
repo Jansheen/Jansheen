@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Jansheen
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning python and HTML 
-- 😄 Pronouns: he/him
-
-<!---
-Jansheen/Jansheen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack learner & creative designer passionate about building and designing digital experiences.
+⚡ HTML | CSS | JavaScript | C++ | Python
+🎨 Canva | Photoshop | Filmora
+📚 B.Sc. Computer Science (Hons.) student
+🌱 Currently exploring Figma & DaVinci Resolve
